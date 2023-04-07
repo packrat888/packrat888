@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer/Texas A&M Central Texas Student
 -----------------------------------------
 
-Jace is a developer with expertise in C++, C#, JavaScript, HTML, CSS, and Python. He is a full time student graduating in 2024 studying to receive his Bachelors in Computer Science.
+I'm a developer who's worked in C++, C#, JavaScript, HTML, CSS, and Python. I'm a full time student graduating in 2024 studying to receive my Bachelors in Computer Science.
 
 * 🌍  I'm based in Copperas Cove, TX
 * ✉️  You can contact me at [jj095@my.tamuct.edu](mailto:jj095@my.tamuct.edu)
