@@ -7,7 +7,7 @@ Developer/Texas A&M Central Texas Student
 I'm a developer who's worked in C++, C#, JavaScript, HTML, CSS, and Python. I'm a full time student graduating in 2024 studying to receive my Bachelors in Computer Science.
 
 * 🌍  I'm based in Copperas Cove, TX
-* ✉️  You can contact me at [jj095@my.tamuct.edu](mailto:jj095@my.tamuct.edu)
+* ✉️  You can contact me at [jacejohnson222@gmail.com](mailto:jacejohnson222@gmail.com)
 * 🧠  I'm learning everything C++
 
 ### Skills
