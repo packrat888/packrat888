@@ -8,7 +8,6 @@ I'm a developer who's worked in C++, C#, JavaScript, HTML, CSS, and Python. I'm 
 
 * 🌍  I'm based in Copperas Cove, TX
 * ✉️  You can contact me at [jacejohnson222@gmail.com](mailto:jacejohnson222@gmail.com)
-* 🧠  I'm learning everything C++
 
 ### Skills
 
